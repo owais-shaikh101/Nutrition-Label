@@ -1,14 +1,14 @@
 # Nutrition Label
 
-This project provides a simple HTML and CSS implementation of a nutrition facts label, designed to display nutritional information in a clean and organized format. The layout consists of multiple sections such as the serving size, calories, and daily values for various nutrients.
+This project features a simple and visually clean representation of a nutrition facts label using HTML and CSS. The label displays key nutritional information such as serving size, calories, daily values, and more in an organized format. It is designed to be lightweight, responsive, and easily customizable.
 
 ## Features
 
-- **Responsive Design**: The label adjusts to fit different screen sizes, ensuring readability across devices.
-- **Customizable Styles**: The CSS is easily modifiable to change colors, fonts, or layout to match your brand or design preferences.
-- **Clean Structure**: The HTML structure is minimal, focusing on the content of the nutrition label.
+- **Simple Layout**: The label is divided into clear sections for easy readability: serving size, calories, nutrients, and daily values.
+- **Customizable Design**: The included CSS allows for easy changes to the label's appearance, such as font size, color, and spacing.
+- **Responsive**: The label adjusts to various screen sizes, ensuring that the information remains legible across different devices.
 
 ## Files
 
-- **index.html**: Contains the structure and content of the nutrition label.
-- **styles.css**: Defines the styles for the label, including font sizes, margins, and dividers.
+- **index.html**: Contains the HTML structure for the nutrition label.
+- **styles.css**: Provides the styling for the label, including layout and typography.
